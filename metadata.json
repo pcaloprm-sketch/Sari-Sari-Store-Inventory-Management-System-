@@ -1,0 +1,6 @@
+{
+  "name": "Sari-Sari Tracker",
+  "description": "Inventory and sales management system for Filipino sari-sari stores with role-based access and customizable themes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
